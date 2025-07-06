@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Hack Club
+
+Hackclub theme is a clean Jekyll theme for the average human
